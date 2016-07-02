@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Demo.Meetup.CustomMembership\Demo.Meetup.CustomMembership\bin\Demo.Meetup.CustomMembership.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\Demo.Meetup.CustomMembership\Demo.Meetup.CustomMembership\bin\Demo.Meetup.CustomMembership.dll
+c:\users\admin\documents\visual studio 2015\Projects\Demo.Meetup.CustomMembership\Demo.Meetup.CustomMembership\bin\Demo.Meetup.CustomMembership.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Demo.Meetup.CustomMembership\Demo.Meetup.CustomMembership\obj\Debug\Demo.Meetup.CustomMembership.dll
+c:\users\admin\documents\visual studio 2015\Projects\Demo.Meetup.CustomMembership\Demo.Meetup.CustomMembership\obj\Debug\Demo.Meetup.CustomMembership.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Demo.Meetup.CustomMembership\Demo.Meetup.CustomMembership\obj\Debug\Demo.Meetup.CustomMembership.csprojResolveAssemblyReference.cache
